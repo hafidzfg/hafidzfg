@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Hafidz Firmansyah Ghufara. You can call me Hafidz
  
-Aspiring QA Engineer currently working at [BFI Finance](https://www.linkedin.com/company/pt-bfi-finance-indonesia-tbk/)
+QA Engineer currently working at [BFI Finance](https://www.linkedin.com/company/pt-bfi-finance-indonesia-tbk/)
 
 Personal account, my work account is private as always
 
