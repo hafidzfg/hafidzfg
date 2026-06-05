@@ -1,11 +1,4 @@
-### 👋 Hi, I'm Hafidz Firmansyah Ghufara. You can call me Hafidz
- 
-QA Engineer currently working at [BFI Finance](https://www.linkedin.com/company/pt-bfi-finance-indonesia-tbk/)
-
-Personal account.
-
-Let's get connected! <br>
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafidzfg/)
+Under construction
 
 ### Github Statistics
 <p align="left">
